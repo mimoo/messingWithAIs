@@ -1,0 +1,1 @@
+to setup this repository for exploration or development, first run the following command `git submodule init && curl -o- https://raw.githubusercontent.com/mimoo/messingWithAIs/refs/heads/main/scripts/setup.sh | sh`
